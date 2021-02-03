@@ -89,7 +89,7 @@ export default class Authors extends Component {
           <title>Incident List</title>
         </Helmet>
         <div className={'titleWrapper'}>
-          <StyledHeading>Leaderboard</StyledHeading>
+          <StyledHeading>Submissions Leaderboard</StyledHeading>
         </div>
         <StyledMainWrapper>
           <p className="paragraph">
